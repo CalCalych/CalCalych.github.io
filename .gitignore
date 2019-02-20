@@ -1,7 +1,0 @@
-node_modules
-package-lock.json
-package.json
-js
-.cache
-*.py
-*.txt
